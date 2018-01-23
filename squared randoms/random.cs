@@ -8,5 +8,6 @@ namespace squared_randoms
 {
     class random
     {
+        public string randomNumber { get; set; }
     }
 }
